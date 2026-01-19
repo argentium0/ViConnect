@@ -83,21 +83,7 @@ Project_Mp/
 
 ---
 
-## 📸 Screenshots
 
-Screenshots of the interface, controls, and database design are included in the project report.
-
----
-
-## 👨‍💻 Authors
-
-- **Muhammad Abdullah (051)**  
-- **Hira Khurshid (038)**  
-- **Mahnoor Sardar (054)**  
-
-Instructor: **Dr. Farman Ullah**
-
----
 
 ## 📜 License
 
